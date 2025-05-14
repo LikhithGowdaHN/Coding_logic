@@ -7,6 +7,7 @@ The Practised coding questions from leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ The Practised coding questions from leetcode.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
