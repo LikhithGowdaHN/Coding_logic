@@ -1,13 +1,13 @@
 class Solution {
     public int romanToInt(String s) {
-        int result = 0;
+        int value = 0;
         int prev = 0;
+        int result = 0;
 
-        for (int i = s.length() - 1; i >= 0; i--) {
-            char c = s.charAt(i);
-            int value = 0;
+        for (int i = s.length()-1; i>=0; i--) {
+            char ch = s.charAt(i);
 
-            switch (c) {
+            switch (ch) {
                 case 'I': value = 1; break;
                 case 'V': value = 5; break;
                 case 'X': value = 10; break;
@@ -15,6 +15,7 @@ class Solution {
                 case 'C': value = 100; break;
                 case 'D': value = 500; break;
                 case 'M': value = 1000; break;
+                default: return 0; // Error case
             }
 
             if (value < prev) {
@@ -27,12 +28,5 @@ class Solution {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.romanToInt("III"));     
-        System.out.println(sol.romanToInt("LVIII"));    
-        System.out.println(sol.romanToInt("MCMXCIV"));  
     }
 }
