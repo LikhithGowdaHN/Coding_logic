@@ -39,8 +39,10 @@ The Practised coding questions from leetcode.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
