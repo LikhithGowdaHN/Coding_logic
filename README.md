@@ -14,6 +14,7 @@ The Practised coding questions from leetcode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ The Practised coding questions from leetcode.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
@@ -45,4 +47,8 @@ The Practised coding questions from leetcode.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0203-remove-linked-list-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LikhithGowdaHN/Coding_logic/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
