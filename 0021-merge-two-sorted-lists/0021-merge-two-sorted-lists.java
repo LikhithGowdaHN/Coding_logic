@@ -13,7 +13,6 @@ class Solution {
          ListNode dummy = new ListNode(0);
         ListNode current = dummy;
 
-        // Loop while both lists are not empty
         while (list1 != null && list2 != null) {
             if (list1.val < list2.val) {
                 current.next = list1;
@@ -25,14 +24,12 @@ class Solution {
             current = current.next;
         }
 
-        // At this point, one list is null, so attach the remaining list
         if (list1 != null) {
             current.next = list1;
         } else if (list2 != null) {
             current.next = list2;
         }
 
-        // Return the merged list (skipping dummy head)
         return dummy.next;
     }
 }
